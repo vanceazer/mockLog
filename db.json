@@ -1,0 +1,24 @@
+{
+  "plateNUmberData": [
+    {
+      "id": 1,
+      "plateNumber": "KSF230FG",
+    },
+    {
+      "id": 2,
+      "plateNumber": "ABC145GH",
+    },
+    {
+      "id": 3,
+      "plateNumber": "SJF470TY",
+    },
+    {
+      "id": 4,
+      "plateNumber": "POL857CN",
+    },
+    {
+      "id": 5,
+      "plateNumber": "BOJ888DJ",
+    }
+  ]
+}
